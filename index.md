@@ -1,4 +1,4 @@
-## 隐私政策
+## 隐私条款
 <!-- ### Markdown
 # Header 1
 ## Header 2
